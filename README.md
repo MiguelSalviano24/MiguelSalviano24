@@ -3,12 +3,6 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/hmDMrE1yMAkAAAAM/when-the-coding-when-the.gif"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
@@ -16,11 +10,15 @@
 
 ###
 
+<img align="right" height="150" src="https://i.gifer.com/77M0.gif"  />
+
+###
+
 <h2 align="left">👩‍💻  Sobre mim</h2>
 
 ###
 
-<p align="left">- ☕  Desenvolvedor Frontend<br><br>- 📚 Atualmente aprofundando em Javascript e React<br><br>- ⚡Apaixonado por tecnologia</p>
+<p align="left">- ☕  Desenvolvedor Frontend<br>- 📚 Atualmente aprofundando em Javascript e React<br>- ⚡Apaixonado por tecnologia</p>
 
 ###
 
@@ -54,11 +52,19 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/MiguelSalviano24/MiguelSalviano24/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<img align="right" height="200" src="https://media4.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b9529yzim3ge3xnl9lkp0x3fqrnsoi8m67w7jzt5167h&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  />
+
+###
+
+<div align="left">
   <a href="https://open.spotify.com/user/31o7fw252j3agvw3iawnvrpeu7b4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31o7fw252j3agvw3iawnvrpeu7b4&count=3" alt="Spotify recently played"  />
   </a>
