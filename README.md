@@ -3,6 +3,12 @@
 ###
 
 <div align="center">
+  <img height="150" src="https://i.gifer.com/77M0.gif"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
@@ -10,9 +16,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/77M0.gif"  />
-
-###
+<br clear="both">
 
 <h2 align="left">👩‍💻  Sobre mim</h2>
 
@@ -44,10 +48,12 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=MiguelSalviano24&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelSalviano24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelSalviano24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelSalviano24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelSalviano24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=MiguelSalviano24&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
