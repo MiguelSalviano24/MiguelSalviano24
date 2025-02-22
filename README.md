@@ -51,9 +51,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelSalviano24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelSalviano24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="180" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=MiguelSalviano24&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelSalviano24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelSalviano24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=MiguelSalviano24&theme=radical&column=8&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -66,7 +66,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media4.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b9529yzim3ge3xnl9lkp0x3fqrnsoi8m67w7jzt5167h&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  />
+<img align="right" height="200" src="https://i.gifer.com/KNGq.gif"  />
 
 ###
 
