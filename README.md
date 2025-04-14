@@ -14,20 +14,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b9521u0zo4fdhwwvvsvb12nxwlo8kwnjhci2uko6wsyg&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/31o7fw252j3agvw3iawnvrpeu7b4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31o7fw252j3agvw3iawnvrpeu7b4&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
@@ -44,6 +30,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<img align="right" height="200" src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b9521u0zo4fdhwwvvsvb12nxwlo8kwnjhci2uko6wsyg&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31o7fw252j3agvw3iawnvrpeu7b4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31o7fw252j3agvw3iawnvrpeu7b4&count=3" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
