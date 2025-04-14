@@ -16,11 +16,11 @@
 
 <br clear="both">
 
-<img align="right" height="230" src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b9521u0zo4fdhwwvvsvb12nxwlo8kwnjhci2uko6wsyg&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="200" src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b9521u0zo4fdhwwvvsvb12nxwlo8kwnjhci2uko6wsyg&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/31o7fw252j3agvw3iawnvrpeu7b4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31o7fw252j3agvw3iawnvrpeu7b4&count=3" alt="Spotify recently played"  />
   </a>
